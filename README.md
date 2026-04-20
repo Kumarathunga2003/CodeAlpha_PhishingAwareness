@@ -12,8 +12,8 @@ An interactive, browser-based phishing awareness training module built with **HT
 -  Teaches users how to spot red flags in emails and fake websites
 -  Real-world examples and case studies
 -  Interactive quiz to test understanding
--  Fully responsive — works on desktop and mobile
--  Zero dependencies — runs directly in any browser
+-  Fully responsive - works on desktop and mobile
+-  Zero dependencies - runs directly in any browser
 
 ---
 
@@ -46,3 +46,12 @@ start phishing_awareness.html       # Windows
 ---
 
 ##  Project Structure
+CodeAlpha_PhishingAwareness/
+├── phishing_awareness.html    # Self-contained training module
+└── README.md
+
+---
+
+**Author:** R.P.G.B Kumarathunga  
+**Internship:** CodeAlpha Cybersecurity Internship  
+🔗 [CodeAlpha](https://www.codealpha.tech)
