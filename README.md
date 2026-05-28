@@ -47,7 +47,9 @@ start phishing_awareness.html       # Windows
 
 ##  Project Structure
 CodeAlpha_PhishingAwareness/
-├── phishing_awareness.html    # Self-contained training module
+
+├── phishing_awareness.html  # Self-contained training module
+
 └── README.md
 
 ---
